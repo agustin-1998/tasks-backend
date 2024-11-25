@@ -1,3 +1,8 @@
+This is the backend of a fullstack project that uses Laravel for the backend and Nuxt.js for the frontend.
+
+This is a CRUD of tasks using best practices for both the frontend and backend.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
